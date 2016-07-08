@@ -55,6 +55,12 @@ p {
     background-color: #306d9f;
 }
 
+.shadow20 {
+	font-size: 65px;
+	color: #306d9f;
+	text-shadow: 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white;
+}
+
 .bg-dark {
     color: #fff;
     background-color: #222;
